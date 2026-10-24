@@ -25,6 +25,5 @@ public class CartifyBackendApplication {
 		
 	}
 
-//	8ubI+ZOTLxNTln05Xn90liGLDAfOdmUNSk23cu2bvGI=
 
 }
